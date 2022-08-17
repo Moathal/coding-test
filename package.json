@@ -1,0 +1,23 @@
+{
+  "name": "coding-test",
+  "version": "1.0.0",
+  "description": "this is to run the test runner ",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moathal/coding-test.git"
+  },
+  "author": "Moathal S. Kachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moathal/coding-test/issues"
+  },
+  "homepage": "https://github.com/Moathal/coding-test#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
